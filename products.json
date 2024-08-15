@@ -1,0 +1,99 @@
+[
+    
+    {
+        "name":"Trà Sữa Truyền Thông",
+        "type":"popular",
+        "image":"./img/milktea.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Sinh Tố Bơ",
+        "type":"popular",
+        "image":"./img/AvocadoSmoothie.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Trà Đào",
+        "type":"popular",
+        "image":"./img/peachtea.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Soda Việt Quất",
+        "type":"popular",
+        "image":"./img/BlackberrySoda.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Trà Tắc",
+        "type":"popular",
+        "image":"./img/kumquat.jpg",
+        "price":"10.000"
+    },
+    {
+        "name":"Nước Ép",
+        "type":"popular",
+        "image":"./img/juice.jpg",
+        "price":"15.000 - 20.000"
+    },
+    {
+        "name":"Rau Má Đậu Xanh",
+        "type":"others",
+        "image":"./img/Pennywort.jpg",
+        "price":"10.000"
+    },
+    {
+        "name":"Sữa Chua Việt Quất",
+        "type":"others",
+        "image":"./img/YogurtBlueberry.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Sữa Gấu Matcha",
+        "type":"others",
+        "image":"./img/MatchaHorchata.jpg",
+        "price":"25.000"
+    },
+    {
+        "name":"Soda Kiwi",
+        "type":"others",
+        "image":"./img/KiwiLime.jpg",
+        "price":"15.000"
+    },
+    {
+        "name":"Nước Ép Táo",
+        "type":"others",
+        "image":"./img/AppleJuice.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Trà Sữa Thái Xanh",
+        "type":"others",
+        "image":"./img/Greentealatte.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Soda Dâu",
+        "type":"others",
+        "image":"./img/StrawberrySoda.jpg",
+        "price":"15.000"
+    },
+    {
+        "name":"Sữa Tươi Trân Châu Đường Đen",
+        "type":"others",
+        "image":"./img/BrownSugarLatte.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Trà Chanh",
+        "type":"others",
+        "image":"./img/GreenTea.jpg",
+        "price":"20.000"
+    },
+    {
+        "name":"Trà Sữa Socola",
+        "type":"others",
+        "image":"./img/ChocolateMilkTea.jpg",
+        "price":"20.000"
+    }
+]
